@@ -1,6 +1,10 @@
 <h1>Tank Wars - Iteration I</h1>
 
-PUT VIDEO HERE
+
+
+https://user-images.githubusercontent.com/56713431/220478339-86a0783a-c9b6-4e10-a081-4a4f46e13252.mp4
+
+
 
 <h3>Game Synopsis</h3>
 <p>
