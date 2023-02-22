@@ -1,15 +1,13 @@
 <h1>Tank Wars - Iteration I</h1>
 
-
-
 https://user-images.githubusercontent.com/56713431/220478339-86a0783a-c9b6-4e10-a081-4a4f46e13252.mp4
-
-
 
 <h3>Game Synopsis</h3>
 <p>
 Tank Wars is a third person shooter game where the player plays as a tank and has to fight off an avalanche of enemies in the form of other tanks,
-that come in phases. But unlike other shooter games, where the player uses conventional means to take out enemies, such as shooting projectiles, 
+that come in phases. The goal of the game is for the player to survive as long as they can.
+
+But unlike other shooter games, where the player uses conventional means to take out enemies, such as shooting projectiles, 
 the core/main mechanic of shooting has been taken out. Instead, the player is given the ability to manipulate time through their movements and 
 use it, together with their spatial awareness, to taking out enemies using their crossfire. 
 As stated, the player manipulates time through movement. When the player is stationary, time progresses at a slow rate whereas when they are 
@@ -42,6 +40,11 @@ attempts to take out enemy targets using guns and other weapons to progress to d
 <br>
 </p>
 
+<p align="center">
+    <img src="https://imgur.com/LwJkBKu.png" height="30%" width="30%" alt="Superhot"/>
+    <img src="https://imgur.com/uNNth2e.png" height="60%" width="30%" alt="Stickman Tank"/>
+</p>
+
 <h2>Implementation</h2>
 <h3>Spatial Reasoning</h3> 
 <p>
@@ -50,7 +53,7 @@ Unlike in both games, where the player is able to shoot back and use other weapo
 for this prototype, that core/main mechanic would be taken out. As a reult, this would force the player to use other means to archieve the task. 
 One such means was their spatial reasoning. 
 
-Because players wouldn't have any shooting mechanic, they were forced tio use their spatial reasoning skills to position themselves such that the
+Because players wouldn't have any shooting mechanic, they were forced to use their spatial reasoning skills to position themselves such that the
 enemies take each other out with their crossfire. Unfortunately, during gameplay, players found it difficult to play the game and use their 
 spatial reasoning skills to position themselves accordingly as even if their were a few enemies present, there were too many bullets that the 
 player had to dodge and therefore, they would die very quickly. In an attemp to balance this out and make things less difficult, the player was 
@@ -58,11 +61,19 @@ given the ability to shoot with a limited amount of ammunition as well as immuni
 by killing enemies. 
 </p>
 
+<p align="center">
+    <img src="https://imgur.com/JKQA7z0.png" height="50%" width="50%" alt="Superhot"/>
+</p>
+
 <h3>Enemies Kills</h3>
 <p>
 During gameplay, players found it frustrating that an enemy would die and drop loot and that loot would disappear without them knowing. Therefore, 
 an enemy counter introduced to keep track of the number of enemies present and if any were killed, the counter would decrease, signaling to the 
 player that an enemy had been killed.
+</p>
+
+<p align="center">
+    <img src="https://imgur.com/4gIsnNS.png" height="50%" width="50%" alt="Superhot"/>
 </p>
 
 <h3>High Score and Kill shots</h3>
